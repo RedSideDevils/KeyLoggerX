@@ -12,7 +12,7 @@ banner = """
   ███ ▀███▄   ███    ███   ███    ███   ███ ▀███▄   ███    ███ ███   ███
   ███   ▀█▀   ███    ███   ███    █▀    ███   ▀█▀   ██████████  ▀█   █▀
   ▀           ███    ███                ▀
-       Live Key Logger By Trippingcarpet | @trippingcarpet_official
+       Live Key Logger By Trippingcarpet | @trippingcarpet
 """
 
 
